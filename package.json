@@ -1,0 +1,22 @@
+{
+  "name": "fetchexample",
+  "version": "1.0.0",
+  "description": "simple jason fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelheimer/fetchExample.git"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "mikee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelheimer/fetchExample/issues"
+  },
+  "homepage": "https://github.com/michaelheimer/fetchExample#readme"
+}

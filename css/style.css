@@ -1,0 +1,27 @@
+body
+{
+	background-color: grey;
+}
+button
+{
+	background-color: green;
+	height: 40px;
+	width: 80px;
+}
+header
+{
+	margin-left: 20%;
+	margin-bottom: 10%;
+	margin-top: 10%;
+	font-size: 40px;
+}
+#output
+{
+  align-self: center;
+}
+#buttonHolder
+{
+	align-items: center;
+	margin-left: 20%;
+	margin-bottom: 10%;
+}
